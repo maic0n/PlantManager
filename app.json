@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "plantmanager",
+    "slug": "plantmanager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "PlantManager ajuda a controlar o momento em que você precisa regar as suas plantas. Lembre-se, cada tipo de planta deve receber água na quantidade correta e na periodicidade correta, mas não se preocupe, nós te avisaremos!",
+    "githubUrl": "https://github.com/maic0n/PlantManager"
+  }
+}
